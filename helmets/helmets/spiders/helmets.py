@@ -34,7 +34,7 @@ class HelmetsSpider(Spider):
                 cookies=self.cookies,
                 headers=self.headers,
             )
-        url = f"{response.url[:len(response.url)-1]}{int(response.url[-1]) + 1}"
+        url = f"{response.url[:-1]}{int(response.url[-1]) + 1}"
         yield Request(
             url=url,
             callback=self.parse_category,
