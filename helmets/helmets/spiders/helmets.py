@@ -10,7 +10,6 @@ class HelmetsSpider(Spider):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.cookies = COOKIES
         self.headers = HEADERS
 
     async def start(self):
@@ -43,8 +42,6 @@ class HelmetsSpider(Spider):
         )
 
     def parse_product(self, response: Response):
-
-
         product_item = {
             "link": self.get_link(response),
             "title": self.get_title(response),
