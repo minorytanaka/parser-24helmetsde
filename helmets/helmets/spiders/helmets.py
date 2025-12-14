@@ -1,6 +1,6 @@
 from scrapy import Request, Spider
 from scrapy.http import Response
-from helmets.settings import COOKIES, HEADERS, XPATH
+from helmets.settings import HEADERS, XPATH
 
 
 class HelmetsSpider(Spider):
