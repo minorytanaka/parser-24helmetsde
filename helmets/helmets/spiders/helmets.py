@@ -33,6 +33,7 @@ class HelmetsSpider(Spider):
                 cookies=self.cookies,
                 headers=self.headers,
             )
+        # add or replace
         url = f"{response.url[:-1]}{int(response.url[-1]) + 1}"
         yield Request(
             url=url,
