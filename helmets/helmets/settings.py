@@ -122,32 +122,41 @@ XPATH = {
     "title": "//h1[@class='product--title']//text()",
     "price": "//span[contains(@class, 'price--content')]/meta[@itemprop='price']/@content",
     "sku": "",
+    "product_configurator": "//div[@class='product--configurator']//p[@class='configurator--label']"
 }
 
-<select name="group[5]" data-ajax-select-variants="true">
-    <option value="">Bitte wählen</option>
-    <option value="107"> Transparent (ECE) </option>
-    <option selected="selected" value="771"> Grau (ECE) </option>
-    <option value="76"> Dunkelgrau </option> <option value="53"> Silber verspiegelt </option>
-    <option value="83"> Gold verspiegelt </option>
-</select>
-
-GRAU https://www.24helmets.de/agv-tourmodular-visier-flat-shield?group[5]=771&group[4]=515&template=ajax
-GOLD https://www.24helmets.de/agv-tourmodular-visier-flat-shield?group[5]=83&group[4]=515&template=ajax
+ROTATING_PROXY_LIST = ["http://jUvPyT:JS0y2C@178.171.42.166:9491"]
+DOWNLOADER_MIDDLEWARES = {
+    'rotating_proxies.middlewares.RotatingProxyMiddleware': 110,
+    'rotating_proxies.middlewares.BanDetectionMiddleware': 120,
+}
 
 
-<select name="group[5]" data-ajax-select-variants="true">
-    <option value="" selected="selected">Bitte wählen</option>
-    <option value="76"> Dunkelgrau </option>
-</select>
 
-DUNKELGRAU https://www.24helmets.de/bell-visier-3-snap-flat-shield?group[5]=76&template=ajax&c=138
+# <select name="group[5]" data-ajax-select-variants="true">
+#     <option value="">Bitte wählen</option>
+#     <option value="107"> Transparent (ECE) </option>
+#     <option selected="selected" value="771"> Grau (ECE) </option>
+#     <option value="76"> Dunkelgrau </option> <option value="53"> Silber verspiegelt </option>
+#     <option value="83"> Gold verspiegelt </option>
+# </select>
+
+# GRAU https://www.24helmets.de/agv-tourmodular-visier-flat-shield?group[5]=771&group[4]=515&template=ajax
+# GOLD https://www.24helmets.de/agv-tourmodular-visier-flat-shield?group[5]=83&group[4]=515&template=ajax
 
 
-<select name="group[5]" data-ajax-select-variants="true">
-    <option value="" selected="selected">Bitte wählen</option>
-    <option disabled="" value="646"> Rainbow verspiegelt (GEN 2) - Nicht mehr lieferbar </option>
-    <option value="651"> Gelb (GEN 2) </option> <option disabled="" value="665"> Transparent (GEN 2, ECE) - Nicht mehr lieferbar </option>
-</select>
+# <select name="group[5]" data-ajax-select-variants="true">
+#     <option value="" selected="selected">Bitte wählen</option>
+#     <option value="76"> Dunkelgrau </option>
+# </select>
 
-GELB https://www.24helmets.de/biltwell-lane-splitter-visier-flat-shield-ece-22.05?group[5]=651&template=ajax&c=138
+# DUNKELGRAU https://www.24helmets.de/bell-visier-3-snap-flat-shield?group[5]=76&template=ajax&c=138
+
+
+# <select name="group[5]" data-ajax-select-variants="true">
+#     <option value="" selected="selected">Bitte wählen</option>
+#     <option disabled="" value="646"> Rainbow verspiegelt (GEN 2) - Nicht mehr lieferbar </option>
+#     <option value="651"> Gelb (GEN 2) </option> <option disabled="" value="665"> Transparent (GEN 2, ECE) - Nicht mehr lieferbar </option>
+# </select>
+
+# GELB https://www.24helmets.de/biltwell-lane-splitter-visier-flat-shield-ece-22.05?group[5]=651&template=ajax&c=138

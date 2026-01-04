@@ -1,0 +1,67 @@
+{'additional_photos': 'https://www.24helmets.de/media/image/0b/a5/9c/trip-machine-motorcycle-bag-mini-pannier-vintage-tan_02_1280x1280.jpg,https://www.24helmets.de/media/image/73/09/67/trip-machine-motorcycle-bag-mini-pannier-vintage-tan_03_1280x1280.jpg,https://www.24helmets.de/media/image/e6/47/71/trip-machine-motorcycle-bag-mini-pannier-vintage-tan_04_1280x1280.jpg,https://www.24helmets.de/media/image/b8/c4/f6/trip-machine-motorcycle-bag-mini-pannier-vintage-tan_05_1280x1280.jpg,https://www.24helmets.de/media/image/3d/c7/27/trip-machine-motorcycle-bag-mini-pannier-vintage-tan_06_1280x1280.jpg,https://www.24helmets.de/media/image/24/c9/70/trip-machine-motorcycle-bag-mini-pannier-vintage-tan_07_1280x1280.jpg',
+ 'brand': 'TRIP MACHINE',
+ 'bundle_id': '109680',
+ 'care_instructions': '',
+ 'category': 'Luggage/Packs',
+ 'characteristics': 'Material: Leather, Colour: Beige, Volumen: ca. 3,3 Liter, '
+                    'Made in: India',
+ 'closure': '',
+ 'color': 'Beige',
+ 'compliance': '',
+ 'construction': '',
+ 'description': 'Handmade. Motorcycle Luggage Bag. TRIP MACHINE. Motorcycle '
+                'Bag Mini Pannier - vintage tan. Material: . 100% leather. '
+                'Dimensions: approx. 25,5cm x 18cm x 7,5cm. Buckle closure '
+                'with leather strap in front. Attaches to motorcycle with loop '
+                'system:. Two leather loops with buckles at the top. Two metal '
+                'eyelets on the sides at the bottom. Pocket for quick access '
+                'at the front. Roll top to expand the volume. Leather shoulder '
+                'strap included. Small leather logo patch at front. Handmade '
+                'in India. Manufacturer: TRIP MACHINE (IND) . Model: mini '
+                'pannier vintage tan. The . TRIP MACHINE motorcycle bag "Mini '
+                'Pannier" in vintage tan. is handmade and has a simple '
+                'elegance. This bag, which can also be worn as a shoulder bag, '
+                'can hold everything you need for a day trip. The . TRIP '
+                'MACHINE . motorcycle bag. "Mini Pannier" in vintage tan. is '
+                'easy to attach to your mnotorcycle with a loop system. This '
+                'visual highlight is a piece of craftsmanship that simply goes '
+                'with almost everything in a timeless design. It looks '
+                'fantastic on modern classics from Harley-Davidson or Royal '
+                'Enfield, but also on oldschool café racers.',
+ 'fit': '',
+ 'frame': '',
+ 'function': '',
+ 'gender': '',
+ 'head_size': '',
+ 'helmet_type': '',
+ 'in_stock': 1,
+ 'legal_information': 'Legal information . Supplier:. trip machine café . plot '
+                      'no. 10, 1, gurgaon. faridabad rd, baliawas, gurugram,. '
+                      'bandhwari, haryana 122003. Indien. Telefon: +91 9560 '
+                      '030305. www.tripmachinecompany.com . Responsible '
+                      'Person:. Motorcycle Storehouse B.V.. Gotenburgweg 46. '
+                      '9723 TM Groningen. Niederlande. Telefon: +31 (0) 50 303 '
+                      '97 75. www.mcseurope.nl',
+ 'lenses': '',
+ 'made_in': 'India',
+ 'main_photo': 'https://www.24helmets.de/media/image/47/71/58/trip-machine-motorcycle-bag-mini-pannier-vintage-tan_01_1280x1280.png',
+ 'material': 'Leather',
+ 'model': 'mini pannier vintage tan',
+ 'newmen_sku': 'HLM-109680',
+ 'origin_name': 'TRIP MACHINE Motorcycle Bag Mini Pannier - vintage tan',
+ 'price': 122.99,
+ 'price_before_discount': None,
+ 'producer_size': '',
+ 'protection': '',
+ 'recommended_for': '',
+ 'shop_sku': '109680',
+ 'size2': '',
+ 'size_table': None,
+ 'suitable_for': 'Two leather loops with buckles at the top, Two metal eyelets '
+                 'on the sides at the bottom',
+ 'tint': '',
+ 'tint_level': '',
+ 'url': 'https://www.24helmets.de/en/trip-machine-mini-pannier-vintage-tan?number=109680',
+ 'volume': 'ca. 3,3 Liter',
+ 'weight': ''
+}
